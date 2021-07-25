@@ -98,7 +98,7 @@ void main()
 	row(F);
 	bowl(C,m,F);
 	fclose(F);
-	printf("!!Make Sure To Rename The Sheet If You Want To Save It!!\n\nPress Any Key To Exit:)");
+	printf("!!Make Sure To Rename The Text File If You Want To Save It!!\n\nPress Any Key To Exit:)");
 	printf("IT IS SAVED IN THE SAME LOCATION AS THIS PROGRAM :)");
 }
 void loading()
